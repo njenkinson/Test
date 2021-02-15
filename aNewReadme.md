@@ -1,3 +1,3 @@
-#Editing this file using markdown syntax
-2+2
-print('hello world')
+##Editing this file using markdown syntax
+**this is bold**
+~strikethrough~ 
